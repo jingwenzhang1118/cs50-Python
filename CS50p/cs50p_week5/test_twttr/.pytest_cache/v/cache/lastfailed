@@ -1,0 +1,8 @@
+{
+  "test_twttr.py::test_a": true,
+  "test_twttr.py::test_e": true,
+  "test_twttr.py::test_i": true,
+  "test_twttr.py::test_O": true,
+  "test_twttr.py::test_u": true,
+  "test_twttr.py::test_upper": true
+}

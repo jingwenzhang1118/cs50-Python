@@ -1,0 +1,12 @@
+[
+  "test_numb3rs.py::test_char",
+  "test_numb3rs.py::test_first_byte",
+  "test_numb3rs.py::test_format",
+  "test_numb3rs.py::test_last_byte",
+  "test_numb3rs.py::test_middle_bytes",
+  "test_numb3rs.py::test_more_byte",
+  "test_numb3rs.py::test_num",
+  "test_numb3rs.py::test_other_bytes",
+  "test_numb3rs.py::test_range",
+  "test_numb3rs.py::test_start_end"
+]

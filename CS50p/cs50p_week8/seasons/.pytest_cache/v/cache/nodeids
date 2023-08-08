@@ -1,0 +1,4 @@
+[
+  "test_seasons.py::test_calculation",
+  "test_seasons.py::test_format"
+]

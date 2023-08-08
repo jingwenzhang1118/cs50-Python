@@ -1,0 +1,6 @@
+[
+  "test_working.py::test_conversion",
+  "test_working.py::test_format",
+  "test_working.py::test_hr_valid",
+  "test_working.py::test_min_valid"
+]

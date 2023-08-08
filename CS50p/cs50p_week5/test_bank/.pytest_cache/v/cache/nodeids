@@ -1,0 +1,6 @@
+[
+  "test_bank.py::test_h",
+  "test_bank.py::test_hello",
+  "test_bank.py::test_other",
+  "test_bank.py::test_otherchar"
+]

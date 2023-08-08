@@ -1,0 +1,6 @@
+[
+  "test_plates.py::test_digits",
+  "test_plates.py::test_first2char",
+  "test_plates.py::test_len",
+  "test_plates.py::test_otherchar"
+]

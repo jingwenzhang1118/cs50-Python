@@ -1,0 +1,6 @@
+[
+  "test_fuel.py::test_ValueError",
+  "test_fuel.py::test_ZeroDivisionError",
+  "test_fuel.py::test_frac",
+  "test_fuel.py::test_gauge"
+]
